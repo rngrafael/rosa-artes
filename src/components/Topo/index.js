@@ -18,11 +18,11 @@ export default function Topo() {
       </div>
 
       <div className={`nav-links ${menuAberto ? 'ativo' : ''}`}>
-        <a href="#" className="link">Início</a>
-        <a href="#" className="link">Sobre</a>
-        <a href="#" className="link">Galeria</a>
-        <a href="#" className="link">Serviços</a>
-        <a href="#" className="link">Contato</a>
+        <a href="#inicio" className="link">Início</a>
+        <a href="#sobre" className="link">Sobre</a>
+        <a href="#galeria" className="link">Galeria</a>
+        <a href="#servicos" className="link">Serviços</a>
+        <a href="#contato" className="link">Contato</a>
       </div>
 
       <div className="menu-mobile" onClick={() => setMenuAberto(!menuAberto)}>
