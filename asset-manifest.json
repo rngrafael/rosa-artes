@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rosa-artes/static/css/main.cb132eda.css",
+    "main.js": "/rosa-artes/static/js/main.7afed418.js",
+    "static/js/453.6a0e25c3.chunk.js": "/rosa-artes/static/js/453.6a0e25c3.chunk.js",
+    "index.html": "/rosa-artes/index.html",
+    "main.cb132eda.css.map": "/rosa-artes/static/css/main.cb132eda.css.map",
+    "main.7afed418.js.map": "/rosa-artes/static/js/main.7afed418.js.map",
+    "453.6a0e25c3.chunk.js.map": "/rosa-artes/static/js/453.6a0e25c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb132eda.css",
+    "static/js/main.7afed418.js"
+  ]
+}
